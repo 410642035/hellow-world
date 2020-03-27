@@ -5,3 +5,4 @@ hi~
 4. if type end, press ESc
 5. if conten is ok :wq
    else :q!
+vi operation guid
